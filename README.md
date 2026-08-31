@@ -24,3 +24,11 @@
 </td>
 </tr>
 </table>
+
+---
+
+<p align="center">
+  <i>« La sagesse de l'homme le rend lent à la colère ;<br>
+  et sa gloire, c'est de passer par-dessus la transgression. »</i><br>
+  — Salomon
+</p>

@@ -6,7 +6,7 @@
 <tr>
 <td width="600px" valign="top">
 
-**Latest Releases**
+🚀 **Latest Releases**
 
 <!-- recent_releases starts -->
 • [cocker v1.2.0.2](https://github.com/gloiiire/cocker/releases/tag/v1.2.0.2) - 2026-08-11<br>• [cocker v1.2.0.1](https://github.com/gloiiire/cocker/releases/tag/v1.2.0.1) - 2026-08-10<br>• [cocker v1.2.0.0](https://github.com/gloiiire/cocker/releases/tag/v1.2.0.0) - 2026-08-10
@@ -15,7 +15,7 @@
 </td>
 <td width="600px" valign="top">
 
-**Recently Updated**
+🛠️ **Recently Updated**
 
 <!-- recent_projects starts -->
 • [ONTBibleApp](https://github.com/ONTBible/ONTBibleApp) - 2026-08-31<br>• [ONTBibleWebapp](https://github.com/ONTBible/ONTBibleWebapp) - 2026-08-31<br>• [ONTBibleTranslation](https://github.com/ONTBible/ONTBibleTranslation) - 2026-08-30<br>• [pinkha](https://github.com/pinkha-app/pinkha) - 2026-08-11<br>• [homebrew-cocker](https://github.com/gloiiire/homebrew-cocker) - 2026-08-11<br>• [cocker](https://github.com/gloiiire/cocker) - 2026-08-11

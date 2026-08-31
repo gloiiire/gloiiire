@@ -83,6 +83,8 @@ def collect_repos(gh):
     for repo in repos:
         if repo.private or repo.archived or repo.full_name in seen:
             continue
+        if repo.name == USER:  # this repo — it would list itself every run
+            continue
         if repo.fork and repo.full_name not in FORKS_TO_KEEP:
             continue
         seen.add(repo.full_name)

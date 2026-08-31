@@ -98,8 +98,12 @@ def recent_releases(repos):
         for release in itertools.islice(repo.get_releases(), 3):
             if release.draft or release.prerelease:
                 continue
+            # created_at porte la date du commit, published_at celle de la
+            # publication. Pour une release posée après coup sur une vieille
+            # version, seule created_at dit quand la version est réellement
+            # sortie ; pour une release normale les deux coincident.
             title = truncate_middle(f"{repo.name} {release.tag_name}")
-            found.append((release.published_at, title, release.html_url))
+            found.append((release.created_at, title, release.html_url))
 
     found.sort(reverse=True)
     return as_bullets(

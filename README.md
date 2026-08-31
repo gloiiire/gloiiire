@@ -9,7 +9,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [cocker v1.2.0.2](https://github.com/gloiiire/cocker/releases/tag/v1.2.0.2) - 2026-08-11<br>• [cocker v1.2.0.1](https://github.com/gloiiire/cocker/releases/tag/v1.2.0.1) - 2026-08-10
+• [cocker v1.2.0.2](https://github.com/gloiiire/cocker/releases/tag/v1.2.0.2) - 2026-08-11<br>• [cocker v1.2.0.1](https://github.com/gloiiire/cocker/releases/tag/v1.2.0.1) - 2026-08-10<br>• [cocker v1.2.0.0](https://github.com/gloiiire/cocker/releases/tag/v1.2.0.0) - 2026-08-10
 <!-- recent_releases ends -->
 
 </td>

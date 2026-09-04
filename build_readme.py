@@ -96,7 +96,10 @@ def recent_releases(repos):
     found = []
     for repo in repos:
         for release in itertools.islice(repo.get_releases(), 3):
-            if release.draft or release.prerelease:
+            # Les prereleases passent — décision du 4 septembre 2026 : les
+            # bêtas Homebrew (brew-beta-v*) doivent se voir ici aussi. Seuls
+            # les brouillons restent dehors : un draft n'est pas une sortie.
+            if release.draft:
                 continue
             # created_at porte la date du commit, published_at celle de la
             # publication. Pour une release posée après coup sur une vieille

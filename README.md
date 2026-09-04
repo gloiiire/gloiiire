@@ -9,7 +9,7 @@
 🚀 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [ONTBibleWebapp v0.2.0](https://github.com/ONTBible/ONTBibleWebapp/releases/tag/v0.2.0) - 2026-08-31<br>• [ONTBibleApp v1.0.4](https://github.com/ONTBible/ONTBibleApp/releases/tag/v1.0.4) - 2026-08-29<br>• [ONTBibleApp v1.0.3](https://github.com/ONTBible/ONTBibleApp/releases/tag/v1.0.3) - 2026-08-25<br>• [cocker v1.2.0.2](https://github.com/gloiiire/cocker/releases/tag/v1.2.0.2) - 2026-08-11<br>• [cocker v1.2.0.1](https://github.com/gloiiire/cocker/releases/tag/v1.2.0.1) - 2026-08-10<br>• [cocker v1.2.0.0](https://github.com/gloiiire/cocker/releases/tag/v1.2.0.0) - 2026-08-10
+• [ONTBibleApp brew-beta-v1.0.5-1](https://github.com/ONTBible/ONTBibleApp/releases/tag/brew-beta-v1.0.5-1) - 2026-09-04<br>• [ONTBibleWebapp v0.2.0](https://github.com/ONTBible/ONTBibleWebapp/releases/tag/v0.2.0) - 2026-08-31<br>• [ONTBibleApp v1.0.4](https://github.com/ONTBible/ONTBibleApp/releases/tag/v1.0.4) - 2026-08-29<br>• [ONTBibleApp v1.0.3](https://github.com/ONTBible/ONTBibleApp/releases/tag/v1.0.3) - 2026-08-25<br>• [cocker v1.2.0.2](https://github.com/gloiiire/cocker/releases/tag/v1.2.0.2) - 2026-08-11<br>• [cocker v1.2.0.1](https://github.com/gloiiire/cocker/releases/tag/v1.2.0.1) - 2026-08-10
 <!-- recent_releases ends -->
 
 </td>

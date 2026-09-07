@@ -9,7 +9,7 @@
 🚀 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [ONTBibleApp brew-beta-v1.0.5-1](https://github.com/ONTBible/ONTBibleApp/releases/tag/brew-beta-v1.0.5-1) - 2026-09-04<br>• [ONTBibleWebapp v0.2.0](https://github.com/ONTBible/ONTBibleWebapp/releases/tag/v0.2.0) - 2026-08-31<br>• [ONTBibleApp v1.0.4](https://github.com/ONTBible/ONTBibleApp/releases/tag/v1.0.4) - 2026-08-29<br>• [ONTBibleApp v1.0.3](https://github.com/ONTBible/ONTBibleApp/releases/tag/v1.0.3) - 2026-08-25<br>• [cocker v1.2.0.2](https://github.com/gloiiire/cocker/releases/tag/v1.2.0.2) - 2026-08-11<br>• [cocker v1.2.0.1](https://github.com/gloiiire/cocker/releases/tag/v1.2.0.1) - 2026-08-10
+• [ONTBibleApp brew-v1.0.5](https://github.com/ONTBible/ONTBibleApp/releases/tag/brew-v1.0.5) - 2026-09-07<br>• [ONTBibleApp v1.0.5](https://github.com/ONTBible/ONTBibleApp/releases/tag/v1.0.5) - 2026-09-07<br>• [ONTBibleApp brew-beta-v1.0.5-1](https://github.com/ONTBible/ONTBibleApp/releases/tag/brew-beta-v1.0.5-1) - 2026-09-04<br>• [ONTBibleWebapp v0.2.0](https://github.com/ONTBible/ONTBibleWebapp/releases/tag/v0.2.0) - 2026-08-31<br>• [cocker v1.2.0.2](https://github.com/gloiiire/cocker/releases/tag/v1.2.0.2) - 2026-08-11<br>• [cocker v1.2.0.1](https://github.com/gloiiire/cocker/releases/tag/v1.2.0.1) - 2026-08-10
 <!-- recent_releases ends -->
 
 </td>
@@ -18,7 +18,7 @@
 🛠️ **Recently Updated**
 
 <!-- recent_projects starts -->
-• [ONTBibleApp](https://github.com/ONTBible/ONTBibleApp) - 2026-09-04<br>• [homebrew-ont](https://github.com/ONTBible/homebrew-ont) - 2026-09-04<br>• [ONTBibleTranslation](https://github.com/ONTBible/ONTBibleTranslation) - 2026-09-03<br>• [ONTBibleWebapp](https://github.com/ONTBible/ONTBibleWebapp) - 2026-09-03<br>• [pinkha](https://github.com/pinkha-app/pinkha) - 2026-09-03<br>• [cocker](https://github.com/gloiiire/cocker) - 2026-09-01
+• [ONTBibleApp](https://github.com/ONTBible/ONTBibleApp) - 2026-09-07<br>• [ONTBibleTranslation](https://github.com/ONTBible/ONTBibleTranslation) - 2026-09-07<br>• [homebrew-ont](https://github.com/ONTBible/homebrew-ont) - 2026-09-07<br>• [ONTBibleWebapp](https://github.com/ONTBible/ONTBibleWebapp) - 2026-09-07<br>• [pinkha](https://github.com/pinkha-app/pinkha) - 2026-09-03<br>• [cocker](https://github.com/gloiiire/cocker) - 2026-09-01
 <!-- recent_projects ends -->
 
 </td>

@@ -18,7 +18,7 @@
 🛠️ **Recently Updated**
 
 <!-- recent_projects starts -->
-• [ONTBibleTranslation](https://github.com/ONTBible/ONTBibleTranslation) - 2026-09-08<br>• [ONTBibleApp](https://github.com/ONTBible/ONTBibleApp) - 2026-09-08<br>• [ONTBibleWebapp](https://github.com/ONTBible/ONTBibleWebapp) - 2026-09-08<br>• [homebrew-ont](https://github.com/ONTBible/homebrew-ont) - 2026-09-07<br>• [pinkha](https://github.com/pinkha-app/pinkha) - 2026-09-03<br>• [cocker](https://github.com/gloiiire/cocker) - 2026-09-01
+• [ONTBibleApp](https://github.com/ONTBible/ONTBibleApp) - 2026-09-08<br>• [ONTBibleTranslation](https://github.com/ONTBible/ONTBibleTranslation) - 2026-09-08<br>• [ONTBibleWebapp](https://github.com/ONTBible/ONTBibleWebapp) - 2026-09-08<br>• [homebrew-ont](https://github.com/ONTBible/homebrew-ont) - 2026-09-07<br>• [pinkha](https://github.com/pinkha-app/pinkha) - 2026-09-03<br>• [cocker](https://github.com/gloiiire/cocker) - 2026-09-01
 <!-- recent_projects ends -->
 
 </td>
